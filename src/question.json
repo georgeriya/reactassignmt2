@@ -1,0 +1,754 @@
+{
+    "items": [
+      {
+        "tags": [
+          "python",
+          "python-3.x",
+          "tkinter",
+          "tkinter-canvas"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 11860849,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/e8a02c9fab95fef238ca3849f3d7f43a?s=128&d=identicon&r=PG&f=1",
+          "display_name": "skdepy",
+          "link": "https://stackoverflow.com/users/11860849/skdepy"
+        },
+        "is_answered": true,
+        "view_count": 26,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1564634135,
+        "creation_date": 1564524572,
+        "last_edit_date": 1564634135,
+        "question_id": 57280682,
+        "link": "https://stackoverflow.com/questions/57280682/is-there-a-way-in-python-to-hide-canvas-after-few-second",
+        "title": "is there a way in python to hide canvas after few second?"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "google-cloud-firestore"
+        ],
+        "owner": {
+          "reputation": 23,
+          "user_id": 11757500,
+          "user_type": "registered",
+          "profile_image": "https://lh5.googleusercontent.com/-R1AAvj20RVE/AAAAAAAAAAI/AAAAAAAAAEc/RplJJq7jGGA/photo.jpg?sz=128",
+          "display_name": "yuli casta&#241;o",
+          "link": "https://stackoverflow.com/users/11757500/yuli-casta%c3%b1o"
+        },
+        "is_answered": false,
+        "view_count": 2,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564634135,
+        "creation_date": 1564634135,
+        "question_id": 57301894,
+        "link": "https://stackoverflow.com/questions/57301894/getting-null-string-from-inner-function-with-global-variable",
+        "title": "Getting null string from inner function with global variable"
+      },
+      {
+        "tags": [
+          "c#",
+          "blazor",
+          "blazor-server-side"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 8723050,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/c0fd3c9b765fc2bb3f70a45d979a5ca3?s=128&d=identicon&r=PG&f=1",
+          "display_name": "D. Hile",
+          "link": "https://stackoverflow.com/users/8723050/d-hile"
+        },
+        "is_answered": true,
+        "view_count": 23,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1564634124,
+        "creation_date": 1564609601,
+        "last_edit_date": 1564634124,
+        "question_id": 57299237,
+        "link": "https://stackoverflow.com/questions/57299237/blazor-equivalent-of-wpf-showdialog",
+        "title": "Blazor equivalent of WPF ShowDialog()?"
+      },
+      {
+        "tags": [
+          "python",
+          "python-3.x",
+          "websocket"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 6754632,
+          "user_type": "registered",
+          "profile_image": "https://lh5.googleusercontent.com/-ofkPqRSTzdw/AAAAAAAAAAI/AAAAAAAABnU/p45w2TjMaWk/photo.jpg?sz=128",
+          "display_name": "Yoni Meller",
+          "link": "https://stackoverflow.com/users/6754632/yoni-meller"
+        },
+        "is_answered": false,
+        "view_count": 13,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1564634113,
+        "creation_date": 1564632644,
+        "question_id": 57301729,
+        "link": "https://stackoverflow.com/questions/57301729/python-websockets-server-works-on-localhost-but-not-on-server",
+        "title": "Python websockets server works on localhost but not on server"
+      },
+      {
+        "tags": [
+          "c++",
+          "stack",
+          "queue"
+        ],
+        "owner": {
+          "reputation": 11,
+          "user_id": 11767761,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/bee4a3c160e3a2a92dd1255f02a5e091?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Nick Halden",
+          "link": "https://stackoverflow.com/users/11767761/nick-halden"
+        },
+        "is_answered": false,
+        "view_count": 18,
+        "answer_count": 1,
+        "score": 1,
+        "last_activity_date": 1564634109,
+        "creation_date": 1564630861,
+        "last_edit_date": 1564630979,
+        "question_id": 57301521,
+        "link": "https://stackoverflow.com/questions/57301521/why-is-a-queue-of-stacks-useful",
+        "title": "Why is a queue of stacks useful?"
+      },
+      {
+        "tags": [
+          "javascript",
+          "video",
+          "axios",
+          "fetch"
+        ],
+        "owner": {
+          "reputation": 391,
+          "user_id": 3256839,
+          "user_type": "registered",
+          "accept_rate": 82,
+          "profile_image": "https://www.gravatar.com/avatar/17063134b32951a27ab006cfec9de46f?s=128&d=identicon&r=PG&f=1",
+          "display_name": "krave",
+          "link": "https://stackoverflow.com/users/3256839/krave"
+        },
+        "is_answered": false,
+        "view_count": 8,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1564634109,
+        "creation_date": 1564629844,
+        "question_id": 57301417,
+        "link": "https://stackoverflow.com/questions/57301417/how-to-use-axiosor-fetch-to-download-a-mp4-file-and-feed-it-to-video-tag-as",
+        "title": "How to use axios(or fetch) to download a mp4 file and feed it to &lt;video&gt; tag as src attribute value?"
+      },
+      {
+        "tags": [
+          "mysql",
+          "node.js"
+        ],
+        "owner": {
+          "reputation": 3,
+          "user_id": 11807313,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/3a9a44734021b9dc487fc6844f02bc5d?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Sayyam Kapoor",
+          "link": "https://stackoverflow.com/users/11807313/sayyam-kapoor"
+        },
+        "is_answered": false,
+        "view_count": 2,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564634083,
+        "creation_date": 1564634083,
+        "question_id": 57301890,
+        "link": "https://stackoverflow.com/questions/57301890/how-to-solve-this-syntax-error-in-nodejs-mysql",
+        "title": "How to solve this syntax error in NodeJS MySQL?"
+      },
+      {
+        "tags": [
+          "r",
+          "excel",
+          "import"
+        ],
+        "owner": {
+          "reputation": 25,
+          "user_id": 4574235,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/65c9b36f49de045fd9f70ed0b290e606?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Ojaswita",
+          "link": "https://stackoverflow.com/users/4574235/ojaswita"
+        },
+        "is_answered": false,
+        "view_count": 3,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564634082,
+        "creation_date": 1564634082,
+        "question_id": 57301889,
+        "link": "https://stackoverflow.com/questions/57301889/reading-text-data-from-an-imported-excel-sheet-in-r",
+        "title": "Reading text data from an imported excel sheet in R"
+      },
+      {
+        "tags": [
+          "bash"
+        ],
+        "owner": {
+          "reputation": 1304,
+          "user_id": 2143275,
+          "user_type": "registered",
+          "accept_rate": 92,
+          "profile_image": "https://i.stack.imgur.com/bbowf.jpg?s=128&g=1",
+          "display_name": "Richie Thomas",
+          "link": "https://stackoverflow.com/users/2143275/richie-thomas"
+        },
+        "is_answered": false,
+        "view_count": 10,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1564634079,
+        "creation_date": 1564633112,
+        "last_edit_date": 1564633963,
+        "question_id": 57301788,
+        "link": "https://stackoverflow.com/questions/57301788/in-the-rbenv-rehash-bash-script-what-does-e-break-do",
+        "title": "In the &quot;rbenv-rehash&quot; bash script, what does &quot;-e* | -- ) break ;;&quot; do?"
+      },
+      {
+        "tags": [
+          "javascript",
+          "google-analytics",
+          "cors",
+          "google-tag-manager"
+        ],
+        "owner": {
+          "reputation": 6,
+          "user_id": 3380916,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/2cb03e76bebf7c327c765781247603e5?s=128&d=identicon&r=PG&f=1",
+          "display_name": "arecki",
+          "link": "https://stackoverflow.com/users/3380916/arecki"
+        },
+        "is_answered": false,
+        "view_count": 2,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564634078,
+        "creation_date": 1564634078,
+        "question_id": 57301887,
+        "link": "https://stackoverflow.com/questions/57301887/cross-domain-tracking-of-long-spanning-conversions",
+        "title": "Cross-domain tracking of long-spanning conversions"
+      },
+      {
+        "tags": [
+          "python",
+          "python-3.x",
+          "tkinter",
+          "python-3.7"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 11863619,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/dd090c68bf3f3e2ab0759b6354e2e45e?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Sparkos",
+          "link": "https://stackoverflow.com/users/11863619/sparkos"
+        },
+        "is_answered": false,
+        "view_count": 13,
+        "answer_count": 0,
+        "score": -2,
+        "last_activity_date": 1564634077,
+        "creation_date": 1564573446,
+        "last_edit_date": 1564634077,
+        "question_id": 57289973,
+        "link": "https://stackoverflow.com/questions/57289973/try-to-import-variables-from-other-file-which-includes-tkinter-window-it-opens-t",
+        "title": "try to import variables from other file which includes tkinter window it opens the tkinter window and i get an error"
+      },
+      {
+        "tags": [
+          "networkx",
+          "directed-graph",
+          "namedtuple",
+          "digraphs",
+          "weighted-graph"
+        ],
+        "owner": {
+          "reputation": 17,
+          "user_id": 9809968,
+          "user_type": "registered",
+          "profile_image": "https://i.stack.imgur.com/B2Xga.jpg?s=128&g=1",
+          "display_name": "Asiis Pradhan",
+          "link": "https://stackoverflow.com/users/9809968/asiis-pradhan"
+        },
+        "is_answered": false,
+        "view_count": 41,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564634070,
+        "creation_date": 1564137822,
+        "last_edit_date": 1564634070,
+        "question_id": 57218399,
+        "link": "https://stackoverflow.com/questions/57218399/converting-list-or-list-of-words-to-problem-graph-for-maximum-spanning-tree-algo",
+        "title": "Converting list or List of words to Problem Graph For Maximum Spanning Tree Algorithm"
+      },
+      {
+        "tags": [
+          "angular",
+          "spring-webflux",
+          "project-reactor",
+          "angular-httpclient"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 11850652,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/-XwEVTbMoVHI/AAAAAAAAAAI/AAAAAAAAAEU/B7q8FIwdrqs/photo.jpg?sz=128",
+          "display_name": "Rahul Jaswal",
+          "link": "https://stackoverflow.com/users/11850652/rahul-jaswal"
+        },
+        "is_answered": false,
+        "view_count": 2,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564634064,
+        "creation_date": 1564634064,
+        "question_id": 57301886,
+        "link": "https://stackoverflow.com/questions/57301886/what-is-the-suitable-http-content-type-for-consuming-an-asynchronous-stream-of-d",
+        "title": "What is the suitable http content-type for consuming an asynchronous stream of data?"
+      },
+      {
+        "tags": [
+          "html",
+          "css"
+        ],
+        "owner": {
+          "reputation": 76,
+          "user_id": 9205133,
+          "user_type": "registered",
+          "profile_image": "https://graph.facebook.com/10155522265387758/picture?type=large",
+          "display_name": "Omega Kewt",
+          "link": "https://stackoverflow.com/users/9205133/omega-kewt"
+        },
+        "is_answered": true,
+        "view_count": 30,
+        "answer_count": 2,
+        "score": 1,
+        "last_activity_date": 1564634060,
+        "creation_date": 1564625419,
+        "last_edit_date": 1564626534,
+        "question_id": 57300990,
+        "link": "https://stackoverflow.com/questions/57300990/trying-to-center-and-bottom-an-image-inside-a-div-using-bottom-0-sends-it-to-th",
+        "title": "Trying to center and bottom an image inside a div using bottom: 0 sends it to the bottom corner of the div"
+      },
+      {
+        "tags": [
+          "javascript",
+          "python",
+          "web-scraping",
+          "scrapy",
+          "scrapy-splash"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 11462041,
+          "user_type": "registered",
+          "profile_image": "https://i.stack.imgur.com/tAW4H.jpg?s=128&g=1",
+          "display_name": "Abdeldjallil Hadji",
+          "link": "https://stackoverflow.com/users/11462041/abdeldjallil-hadji"
+        },
+        "is_answered": false,
+        "view_count": 2,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564634057,
+        "creation_date": 1564634057,
+        "question_id": 57301885,
+        "link": "https://stackoverflow.com/questions/57301885/how-to-set-input-value-with-scrapy-splash",
+        "title": "How to set input value with scrapy-splash?"
+      },
+      {
+        "tags": [
+          "laravel",
+          "slack-dialog"
+        ],
+        "owner": {
+          "reputation": 2426,
+          "user_id": 7057048,
+          "user_type": "registered",
+          "profile_image": "https://graph.facebook.com/1432951750067841/picture?type=large",
+          "display_name": "Tharaka Dilshan",
+          "link": "https://stackoverflow.com/users/7057048/tharaka-dilshan"
+        },
+        "is_answered": false,
+        "view_count": 2,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564634056,
+        "creation_date": 1564634056,
+        "question_id": 57301884,
+        "link": "https://stackoverflow.com/questions/57301884/open-a-slack-dialog",
+        "title": "Open a Slack Dialog"
+      },
+      {
+        "tags": [
+          "c#",
+          "linq"
+        ],
+        "owner": {
+          "reputation": 914,
+          "user_id": 3825246,
+          "user_type": "registered",
+          "accept_rate": 53,
+          "profile_image": "https://i.stack.imgur.com/V1fVO.jpg?s=128&g=1",
+          "display_name": "Ibanez1408",
+          "link": "https://stackoverflow.com/users/3825246/ibanez1408"
+        },
+        "is_answered": false,
+        "view_count": 3,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564634055,
+        "creation_date": 1564634055,
+        "question_id": 57301883,
+        "link": "https://stackoverflow.com/questions/57301883/the-method-except-in-list-does-not-give-the-right-information-in-c",
+        "title": "The method &quot;Except&quot; in List does not give the right information in C#"
+      },
+      {
+        "tags": [
+          "python",
+          "html",
+          "django"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 11861831,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/9d97ce1400a5bbf457054a2b30614cf8?s=128&d=identicon&r=PG&f=1",
+          "display_name": "dolojimz",
+          "link": "https://stackoverflow.com/users/11861831/dolojimz"
+        },
+        "is_answered": false,
+        "view_count": 48,
+        "answer_count": 2,
+        "score": 0,
+        "last_activity_date": 1564634052,
+        "creation_date": 1564549195,
+        "last_edit_date": 1564631049,
+        "question_id": 57283488,
+        "link": "https://stackoverflow.com/questions/57283488/how-to-fix-broken-link-from-django-media-root",
+        "title": "How to fix broken link from Django MEDIA_ROOT?"
+      },
+      {
+        "tags": [
+          "ios",
+          "tensorflow",
+          "keras"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 11867096,
+          "user_type": "registered",
+          "profile_image": "https://graph.facebook.com/896800840705118/picture?type=large",
+          "display_name": "Isuru Alagiyawanna",
+          "link": "https://stackoverflow.com/users/11867096/isuru-alagiyawanna"
+        },
+        "is_answered": false,
+        "view_count": 12,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1564634050,
+        "creation_date": 1564632401,
+        "question_id": 57301699,
+        "link": "https://stackoverflow.com/questions/57301699/why-we-always-use-seed-1234-in-tf-compat-v1-random-set-random-seed1234-is-the",
+        "title": "Why we always use seed =1234 in tf.compat.v1.random.set_random_seed(1234).Is there any specific reason?"
+      },
+      {
+        "tags": [
+          "c"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 11168882,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/-RZ3yjSW6QDo/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdmjAdLB4D-6ZcreM5pl0vFaswv9Q/mo/photo.jpg?sz=128",
+          "display_name": "Parveen Kumar",
+          "link": "https://stackoverflow.com/users/11168882/parveen-kumar"
+        },
+        "is_answered": false,
+        "view_count": 14,
+        "answer_count": 1,
+        "score": -2,
+        "last_activity_date": 1564634048,
+        "creation_date": 1564633528,
+        "last_edit_date": 1564633978,
+        "question_id": 57301836,
+        "link": "https://stackoverflow.com/questions/57301836/what-is-the-use-of-of-main-function-during-second-occurrence-in-this-code",
+        "title": "What is the use of of main() function during second occurrence in this code?"
+      },
+      {
+        "tags": [
+          "angular",
+          "angular-material",
+          "angular-material2",
+          "siblings"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 11761532,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/24740c4dad2e83cdd3d287140cfa48d6?s=128&d=identicon&r=PG&f=1",
+          "display_name": "codeblooded",
+          "link": "https://stackoverflow.com/users/11761532/codeblooded"
+        },
+        "is_answered": false,
+        "view_count": 2,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564634046,
+        "creation_date": 1564634046,
+        "question_id": 57301882,
+        "link": "https://stackoverflow.com/questions/57301882/angular-material-table-sibling-refresh",
+        "title": "Angular Material Table sibling refresh"
+      },
+      {
+        "tags": [
+          "ios",
+          "swift",
+          "xcode",
+          "uitableview"
+        ],
+        "owner": {
+          "reputation": 3,
+          "user_id": 10693867,
+          "user_type": "registered",
+          "profile_image": "https://lh5.googleusercontent.com/-1uI7_JOvJyU/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-gzMiV9JQWuDxoMJ30yBliQpiM5sA/mo/photo.jpg?sz=128",
+          "display_name": "Sean",
+          "link": "https://stackoverflow.com/users/10693867/sean"
+        },
+        "is_answered": false,
+        "view_count": 2,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564634025,
+        "creation_date": 1564634025,
+        "question_id": 57301881,
+        "link": "https://stackoverflow.com/questions/57301881/uitableviewcell-change-checkbox-border-colour",
+        "title": "UITableViewCell: Change checkbox border colour"
+      },
+      {
+        "tags": [
+          "javascript",
+          "jquery",
+          "codeigniter"
+        ],
+        "owner": {
+          "reputation": 3,
+          "user_id": 11827552,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/8052d6f7349ce66a5bf1035e0d236205?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Frsal",
+          "link": "https://stackoverflow.com/users/11827552/frsal"
+        },
+        "is_answered": true,
+        "view_count": 62,
+        "answer_count": 3,
+        "score": -1,
+        "last_activity_date": 1564634014,
+        "creation_date": 1564539222,
+        "last_edit_date": 1564634014,
+        "question_id": 57282256,
+        "link": "https://stackoverflow.com/questions/57282256/how-to-add-commas-in-value",
+        "title": "How to add commas in value"
+      },
+      {
+        "tags": [
+          "spring",
+          "spring-boot",
+          "spring-cache"
+        ],
+        "owner": {
+          "reputation": 183,
+          "user_id": 1972095,
+          "user_type": "registered",
+          "accept_rate": 22,
+          "profile_image": "https://www.gravatar.com/avatar/e5edbb47fb3037dd3670c70d51d85a2a?s=128&d=identicon&r=PG",
+          "display_name": "Shashank",
+          "link": "https://stackoverflow.com/users/1972095/shashank"
+        },
+        "is_answered": false,
+        "view_count": 9,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564634013,
+        "creation_date": 1564632961,
+        "last_edit_date": 1564633265,
+        "question_id": 57301766,
+        "link": "https://stackoverflow.com/questions/57301766/spring-cache-cacheable-and-cacheput-if-exception-is-thrown-inside-method-of",
+        "title": "Spring cache @Cacheable and @CachePut. If exception is thrown inside method of @cachePut, get data from Cache"
+      },
+      {
+        "tags": [
+          "android",
+          "bluetooth",
+          "dumpsys"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 3470856,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/8b28a7a43cebd86140bf6b3f90f37cfb?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Reyhan",
+          "link": "https://stackoverflow.com/users/3470856/reyhan"
+        },
+        "is_answered": false,
+        "view_count": 9,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564634004,
+        "creation_date": 1564610700,
+        "last_edit_date": 1564634004,
+        "question_id": 57299411,
+        "link": "https://stackoverflow.com/questions/57299411/interpreting-dumpsys-bluetoothmanager-result",
+        "title": "Interpreting dumpsys bluetoothmanager result"
+      },
+      {
+        "tags": [
+          "php",
+          "html",
+          "mysqli",
+          "hyperlink",
+          "directory"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 11806161,
+          "user_type": "registered",
+          "profile_image": "https://i.stack.imgur.com/QMRq1.jpg?s=128&g=1",
+          "display_name": "ayamjames",
+          "link": "https://stackoverflow.com/users/11806161/ayamjames"
+        },
+        "is_answered": false,
+        "view_count": 6,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564633998,
+        "creation_date": 1564633998,
+        "question_id": 57301879,
+        "link": "https://stackoverflow.com/questions/57301879/navigation-links-not-wotking-as-expected",
+        "title": "Navigation Links Not wotking as Expected"
+      },
+      {
+        "tags": [
+          "javascript",
+          "date-range"
+        ],
+        "owner": {
+          "reputation": 77,
+          "user_id": 11373639,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/4a8b457d41d5b9a40669866b0a1dc788?s=128&d=identicon&r=PG&f=1",
+          "display_name": "tharindu",
+          "link": "https://stackoverflow.com/users/11373639/tharindu"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564633998,
+        "creation_date": 1564633998,
+        "question_id": 57301878,
+        "link": "https://stackoverflow.com/questions/57301878/get-the-date-range-when-week-number-and-year-given-where-each-week-start-from-su",
+        "title": "Get the date range when week number and Year given where each week start from sunday using js"
+      },
+      {
+        "tags": [
+          "swift",
+          "xcode",
+          "image",
+          "null",
+          "uiimage"
+        ],
+        "owner": {
+          "reputation": 6,
+          "user_id": 10040517,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/4c1c12f3729ab65c619fec92331bad10?s=128&d=identicon&r=PG&f=1",
+          "display_name": "AnonymousCoder",
+          "link": "https://stackoverflow.com/users/10040517/anonymouscoder"
+        },
+        "is_answered": false,
+        "view_count": 25,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1564633997,
+        "creation_date": 1564625327,
+        "question_id": 57300985,
+        "link": "https://stackoverflow.com/questions/57300985/swift-uiimage-named-is-nil",
+        "title": "Swift UIImage Named is nil"
+      },
+      {
+        "tags": [
+          "javascript",
+          "css",
+          "reactjs",
+          "css-transitions",
+          "transition"
+        ],
+        "owner": {
+          "reputation": 50,
+          "user_id": 4696627,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/1df60ee2f753bf3d7052085a5d7c9135?s=128&d=identicon&r=PG&f=1",
+          "display_name": "jarthur",
+          "link": "https://stackoverflow.com/users/4696627/jarthur"
+        },
+        "is_answered": false,
+        "view_count": 17,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1564633990,
+        "creation_date": 1564631821,
+        "question_id": 57301624,
+        "link": "https://stackoverflow.com/questions/57301624/simple-transition-for-react-component",
+        "title": "Simple transition for React component"
+      },
+      {
+        "tags": [
+          "javascript",
+          "html",
+          "reactjs",
+          "bootstrap-4",
+          "modal-dialog"
+        ],
+        "owner": {
+          "reputation": 15,
+          "user_id": 11104897,
+          "user_type": "registered",
+          "profile_image": "https://lh6.googleusercontent.com/-XpunC2dS6ZM/AAAAAAAAAAI/AAAAAAAAABA/-dwD9u-xTAc/photo.jpg?sz=128",
+          "display_name": "panji gemilang",
+          "link": "https://stackoverflow.com/users/11104897/panji-gemilang"
+        },
+        "is_answered": false,
+        "view_count": 15,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1564633986,
+        "creation_date": 1564632149,
+        "last_edit_date": 1564632624,
+        "question_id": 57301666,
+        "link": "https://stackoverflow.com/questions/57301666/passing-data-id-to-bootstrap-modal-without-jquery",
+        "title": "Passing data-id to bootstrap modal WITHOUT jquery"
+      }
+    ],
+    "has_more": true,
+    "quota_max": 10000,
+    "quota_remaining": 9824
+  }
